@@ -3,7 +3,7 @@
 Welcome to the repository for my personal portfolio website! This project serves as an interactive showcase of my technical skills, educational background, and software development projects.
 
 ## 🚀 Live Demo
-**[View Live Portfolio]([https://portfolio-three-azure-35.vercel.app/projects])**
+**[View Live Portfolio]**https://portfolio-three-azure-35.vercel.app/projects
 
 ---
 
@@ -47,7 +47,7 @@ This portfolio was built with modern web technologies to ensure a responsive, sm
 ## 📫 Connect With Me
 * **Email:** aparnasri2106@gmail.com
 * **GitHub:** [aparna21-6](https://github.com/aparna21-6)
-* **LinkedIn:** [https://www.linkedin.com/in/aparna-srivastava-5b37b9312/]
+* **LinkedIn:** https://www.linkedin.com/in/aparna-srivastava-5b37b9312/
 
 ---
 *Open to placements and internships in Software Engineering and Machine Learning.*
